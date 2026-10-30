@@ -16,7 +16,7 @@ To develop a program that calculates a patient's hospital bill by adding consult
 10. Display the patient details, total charges, concession, final bill, amount paid, and payment classification.
 11. Stop.
 # 3. Flowchart (Mermaid)  
-```Mermaid
+```mermaid
 flowchart TD
     A([Start]) --> B[/Enter patient details and charges/]
     B --> C{Are charges valid?}
